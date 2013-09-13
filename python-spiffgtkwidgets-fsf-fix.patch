@@ -1,0 +1,52 @@
+diff --git a/src/SpiffGtkWidgets/Calendar/CanvasDayRange.py b/src/SpiffGtkWidgets/Calendar/CanvasDayRange.py
+index bb6c199..a708caf 100644
+--- a/src/SpiffGtkWidgets/Calendar/CanvasDayRange.py
++++ b/src/SpiffGtkWidgets/Calendar/CanvasDayRange.py
+@@ -13,7 +13,7 @@
+ #
+ # You should have received a copy of the GNU General Public License
+ # along with this program; if not, write to the Free Software
+-# Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA     
++# Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301 USA     
+ #
+ ##############################################################################
+ 
+diff --git a/src/SpiffGtkWidgets/FormEditor/Elements/Element.py b/src/SpiffGtkWidgets/FormEditor/Elements/Element.py
+index 797a380..b1e70e4 100644
+--- a/src/SpiffGtkWidgets/FormEditor/Elements/Element.py
++++ b/src/SpiffGtkWidgets/FormEditor/Elements/Element.py
+@@ -15,7 +15,7 @@
+ #
+ # You should have received a copy of the GNU Lesser General Public License
+ # along with this program.  If not, see <http://www.gnu.org/licenses/>.
+-# Foundation, Inc., 59 Temple Place - Suite 330, Boston, MA 02111-1307, USA.
++# Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301 USA.
+ import gobject, gtk, pango
+ 
+ class Element(gtk.EventBox):
+diff --git a/src/SpiffGtkWidgets/FormEditor/FloatBox.py b/src/SpiffGtkWidgets/FormEditor/FloatBox.py
+index 661a39a..dcaae01 100644
+--- a/src/SpiffGtkWidgets/FormEditor/FloatBox.py
++++ b/src/SpiffGtkWidgets/FormEditor/FloatBox.py
+@@ -16,7 +16,7 @@
+ #
+ # You should have received a copy of the GNU Lesser General Public License
+ # along with this program.  If not, see <http://www.gnu.org/licenses/>.
+-# Foundation, Inc., 59 Temple Place - Suite 330, Boston, MA 02111-1307, USA.
++# Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301 USA.
+ import gobject, gtk
+ from gtk import gdk
+ 
+diff --git a/src/SpiffGtkWidgets/color.py b/src/SpiffGtkWidgets/color.py
+index 0ecd3af..4eede76 100644
+--- a/src/SpiffGtkWidgets/color.py
++++ b/src/SpiffGtkWidgets/color.py
+@@ -14,7 +14,7 @@
+ #
+ # You should have received a copy of the GNU General Public License
+ # along with this program; if not, write to the Free Software
+-# Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA     
++# Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301 USA     
+ #
+ ##############################################################################
+ 
